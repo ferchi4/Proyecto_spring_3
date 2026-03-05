@@ -54,4 +54,4 @@ Estos hallazgos permiten:
 
 ## Cómo Ejecutar
 Clona este repositorio:
-(https://github.com/Jeduardocastel/proyecto3)
+(https://github.com/ferchi4/Proyecto_spring_3)
